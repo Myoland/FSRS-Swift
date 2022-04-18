@@ -4,4 +4,4 @@ This Project is a Swift version for [free-spaced-repetition-scheduler](https://g
 
 ## Example
 
-To learn FSRS-Swift, [FSRSTests](../Tests/FSRSTests/FSRSTests.swift).
+To learn FSRS-Swift, [FSRSTests](./Tests/FSRSTests/FSRSTests.swift).
