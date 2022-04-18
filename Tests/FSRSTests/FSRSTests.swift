@@ -97,9 +97,7 @@ final class FSRSTests: XCTestCase {
         var param = FSRSParam()
         var card = CardTest(param: param, history: [])
         
-        print(param)
         param = card.fsrs(grade: .proficient, hyperParam: param)
-        print(param)
     }
     
     func testFSRS() throws {
